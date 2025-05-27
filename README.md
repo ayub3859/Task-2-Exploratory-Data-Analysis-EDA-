@@ -13,7 +13,6 @@ Perform EDA on the Titanic dataset to understand feature distributions, correlat
 ## 📁 Files Included
 - `Titanic-Dataset.csv` - Raw dataset
 - `titanic_eda.py` - Python script for EDA
-- `README.md` - Project documentation
 
 ## 📊 Key Steps in Analysis
 1. Summary statistics of all features
